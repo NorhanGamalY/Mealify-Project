@@ -211,7 +211,7 @@ order: -1;
 #chefs .chefs-content{
   display: flex;
   flex-flow: row wrap;
-  row-gap: 1.5rem;
+  row-gap: 1.75rem;
   justify-content: space-between;
   color: var(--content-color);
   padding-top: 2rem ;
