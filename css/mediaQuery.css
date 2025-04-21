@@ -25,6 +25,9 @@
 }
     
 @media  (min-width: 1024px) {
+     #home{
+        height: 100vh;
+    }
     
     #home .home-picture {
         width: 40%;
