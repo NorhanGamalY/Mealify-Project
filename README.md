@@ -1,4 +1,4 @@
-# Mealify-Project
+<h1 style="font-size: 36px;">Mealify-Project</h1>
 
 # My First Responsive Website (HTML & CSS Flexbox)
 
@@ -23,3 +23,5 @@ This project showcases:
 1. Clone the repository:
    ```bash
    git clone https://github.com/NorhanGamalY/Mealify-Project.git
+   ```
+2. Open the project by navigating to the project folder and opening `index.html` in a web browser.
