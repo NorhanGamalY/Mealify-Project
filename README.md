@@ -18,13 +18,8 @@ This project showcases:
 - Flexbox used for layout and alignment
 - Clean and simple UI
 
-## 📁 Files Included
-
-- `index.html` – main HTML file
-- `style.css` – external CSS file with Flexbox and media queries
-
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/NorhanGamalY/Mealify-Project.git
