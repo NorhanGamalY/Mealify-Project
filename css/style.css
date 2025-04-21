@@ -19,12 +19,12 @@ ul {
 .container {
   width: 100%;
   margin: auto;
-  padding: 4rem 0;
+  padding: 5rem 0;
 }
 
 :root {
   scroll-behavior: smooth;
-  scroll-padding-top: 5rem;
+  scroll-padding-top: 4.5rem;
 
   /* """"""""""""variables""""""""""""" */
   --red-color: rgb(206, 18, 18);
@@ -345,7 +345,6 @@ transform: translateY(0);
   #contact{
     background-color: #FFFFFF;
     font-family: "Open Sans", sans-serif;
-
   }
   #contact .container{
     row-gap: 1rem;
@@ -393,14 +392,17 @@ font-weight: 700;
 }
 #contact .form-container{
 margin-top: 1rem;
+padding-top: 1rem;
 }
 #contact .form-container .half-line{
   width: 100%;
   padding: 0.6rem 0.5rem;
+  border: .125rem solid #E8E3E3;
 }
 #contact .form-container .line , textarea{
   width: 100%;
   padding: 0.7rem 0.5rem;
+  border: .125rem solid #E8E3E3;
 
 }
 #contact .form-container button{
