@@ -125,7 +125,7 @@ h2 span{
   justify-content: space-between;
   align-items: center;
   position: relative;
-  padding: 6rem 0 1.875rem;
+  padding: 9rem 0 1.875rem;
 }
 #home .home-picture {
   width: 100%;
@@ -173,12 +173,13 @@ order: -1;
 #home .home-content p {
   line-height: 1.625rem;
   font-weight: 400;
-  padding-bottom: 0.625rem;
+  padding: 1.2rem 0;
   color: var(--content-color);
+  font-family:"Open Sans", sans-serif ;
 }
 #home .home-content button {
   background-color: var(--red-color);
-  padding: 0.875rem;
+  padding: 0.6rem 1.3rem;
   border-color: transparent;
   border-radius: 0 1.5625rem 1.5625rem 1.5625rem;
 }
@@ -198,8 +199,8 @@ order: -1;
   border-radius: 50%;
   padding: 0.625rem;
   background-color: var(--white-color);
-  border-right-color: var(--white-color);
-  border-bottom-color: var(--white-color);
+  border-right-color: var(--background-color);
+  border-bottom-color: var(--background-color);
   margin-left: 0.625rem;
 }
 #home .home-content .video:hover {
