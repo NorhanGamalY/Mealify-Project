@@ -5,6 +5,10 @@
     
      
 }
+@media  (min-width: 635px) {
+    #chefs .chefs-content .card::before{
+        top: 92%;}
+}
 @media  (min-width: 768px) {
     .container {
         width: 85%;}
