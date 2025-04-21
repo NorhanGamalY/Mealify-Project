@@ -1,11 +1,5 @@
 
-@media  (min-width: 635px) {
-    #chefs .chefs-content .card::before{
-         top: 91%;}
-    
-     
-}
-@media  (min-width: 635px) {
+@media  (min-width: 549px) {
     #chefs .chefs-content .card::before{
         top: 92%;}
 }
